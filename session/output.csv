@@ -1,0 +1,79 @@
+warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_code
+1/10/2020,452210,Macy's,"2304 N. Salisbury Blvd Salisbury, MD 21801",5,80,3/30/2020,1
+1/15/2020,493110,"IAS Logistics DFW, LLC                           d/b/a                     Pinnacle Logistics","BWI Airport                 7050 Friendship Road Baltimore, MD 21240	1",1,"1,609",4/14/2020,2
+1/29/2020,493110,Collington Distribution Center,"16020 Leeland Road Upper Marlboro, MD 20774",8,520,8/1/2020,1
+1/29/2020,531311,Oakwood Worldwide (US) LP,"888 Airport Park Road Suite A                         Glen Burnie, MD 21061",1,2,3/30/2020,2
+2/11/2020,492110,"Fedex Ground Package System, Inc.","4801 Hollins Ferry Road  Halethorpe, MD 21227",2,130,4/18/2020,1
+2/18/2020,811111,Transform SR LLC-06063                  (Sears Auto Center),"11170 Mall Circle Waldorf, MD 20603",9,10,4/12/2020,1
+2/18/2020,452210,Transform SR LLC-01074                  (Sears Department Store),"11170 Mall Circle Waldorf, MD 20603",9,58,4/12/2020,1
+3/5/2020,624190,Salvation Army Adult Rehabilitation Centers,"10912 York Road     Cockeysville, MD 21030",2,11,5/30/2020,1
+3/5/2020,624190,Salvation Army Adult Rehabilitation Centers,"2250 Gable Avenue     Baltimore, MD 21230",3,17,5/30/2020,1
+3/5/2020,624190,Salvation Army Adult Rehabilitation Centers,"2700 W. Patapsco Ave  Baltimore, MD 21230",3,31,5/30/2020,1
+3/9/2020,442110,Wolf Furniture,"2400 Churchville Road                   Bel Air, MD 21015",10,17,5/9/2020,1
+3/9/2020,442110,Wolf Furniture,"6415 Baltimore National Pike   Catonsville, MD 21228",2,19,5/9/2020,1
+3/9/2020,442110,Wolf Furniture,"1215 W. Patrick Street       Frederick, MD 21702",4,21,5/9/2020,1
+3/9/2020,442110,Wolf Furniture,"900 Premimum Outlets Blvd.      Hagerstown, MD 21740",12,24,5/9/2020,1
+3/9/2020,442110,Wolf Furniture,"8038 Ritchie Highway         Pasadena, MD 21122",1,27,5/9/2020,1
+3/9/2020,442110,Wolf Furniture,"1530 E. Joppa Road                 Towson, MD 21286",2,26,5/9/2020,1
+3/9/2020,442110,Wolf Furniture,"1030 Baltimore Blvd.         Westminster, MD 21157",6,17,5/9/2020,1
+3/18/2020,611620,Silver Spring Gymnastics & Fitness,"2701 Pittman Drive           Silver Spring, MD 20910",7,88,3/16/2020,2
+3/18/2020,812930,SP Plus Corporation,"101 MGM National Avenue   Oxon Hill, MD 20745",8,85,3/15/2020,2
+3/19/2020,722515,Artifact Coffee,"1500 Union Avenue                                           Suite 1100                                       Baltimore, MD 21211",3,24,3/16/2020,2
+3/19/2020,722511,"Foodshed, LLC","2031 Clipper Park Road                                        Baltimore, MD 21211",3,4,3/16/2020,2
+3/19/2020,722511,Woodberry Kitchen,"2010 Clipper Park Road      Suite 118                                       Baltimore, MD 212110",3,76,3/16/2020,2
+3/19/2020,721110,Hotel at UMCP,"7777 Baltimore Avenue                 College Park, MD 20740",8,150,3/19/2020,2
+3/23/2020,713290,Delta Bingo & Gaming,"3605 Ft. Meade Road              Laurel, MD 20724",8,122,3/30/2020,2
+3/25/2020,812331,ALSCO,"4900 Philadelphia Way Lanham, MD 20706",8,150,3/20/2020,2
+3/25/2020,721110,Sheraton Columbia Hotel,"10207 Wincopin Circle Columbia, MD 21044",6,111,3/16/2020,2
+3/26/2020,236118,Case Design/Remodeling,"4701 Sangamore Road      Suite P-40               Bethesda, MD 20816",7,16,3/23/2020,2
+3/26/2020,236118,Case Design/Remodeling,"5030 Boiling Brook Parkway   Rockville, MD 20852",7,8,3/23/2020,2
+3/26/2020,488119,Prosegur Services Group at BWI,"7050 Friendship Road Baltimore, MD 21240",1,53,3/25/2020,2
+3/30/2020,561210,Maximus Federal Services,"1601 McCormick Drive     Largo, MD 20774",8,55,7/1/2020,2
+3/30/2020,611430,Automotive Training Institute,"705 Digital Drive, Suite V Linthicum Heights, MD 21090",1,54,3/29/2020,2
+3/31/2020,532412,"Ahern Rentals, Inc.","7910 Penn Randall Place            Upper Marlboro, MD 20772",8,1,3/30/2020,2
+4/1/2020,512131,Cinemark Egyptian 24,"7000 Arundel Mills Circle         C-1                             Hanover, MD 21076",1,90,3/27/2020,2
+4/1/2020,512131,Cinemark Egyptian 24,"111 East Joppa Road                         Towson, MD 21286",2,146,3/27/2020,2
+3/30/2020,721110,Collegiate Hotel Group,"126 West Street              Annapolis, MD 21401",1,103,3/16/2020,2
+4/1/2020,721110,Schulte Companies d/b/a Embassy Suites Inner Harbor Hotel,"222 St. Paul Place                 Baltimore, MD 212020",3,103,3/16/2020,2
+4/1/2020,721110,Schulte Companies d/b/a Courtyard by Marriott,"128 Troopers Way                  Salisbury, MD 21804",5,32,3/16/2020,2
+4/1/2020,721110,Schulte Companies d/b/a Residence Inn by Marriott,"140 Centre Road                    Salisbury, MD 21801",5,15,3/16/2020,2
+4/1/2020,721110,Schulte Companies d/b/a Hampton Inn & Suites,"124 Womack Drive                              Annapolis, MD 21401",1,12,3/16/2020,2
+4/1/2020,611699,"CorePower Yoga, LLC","727 West 40th Street                Suite 136                           Baltimore, MD 21211",3,27,3/30/2020,2
+4/1/2020,611699,"CorePower Yoga, LLC","6708 Wisconsin Avenue                     Suite 300                        Chevy Chase, MD 20815",7,59,3/30/2020,2
+4/1/2020,611699,"CorePower Yoga, LLC","1321 Dock Street                   Baltimore, MD 21231",3,31,3/30/2020,2
+4/1/2020,611699,"CorePower Yoga, LLC","1420 Key Highway                   Suite 201                         Baltimore, MD 21230",3,42,3/30/2020,2
+4/1/2020,611699,"CorePower Yoga, LLC","3700 Toone Street                                                                                                                     Suite D                                Baltimore, MD 21224",3,34,3/30/2020,2
+4/2/2020,721110,Four Seasons Hotel Baltimore,"200 International Drive Baltimore, MD 21202",3,169,3/23/2020,2
+4/3/2020,722511,Benihana,"7935 Wisconsin Avenue Bethesda, MD 20814",7,43,3/16/2020,2
+4/3/2020,493110,Under Armour,"7030 Tradepoint Avenue           Edgemere, Md 21219",2,154,4/12/2020,1
+4/3/2020,722511,Bond 45,"149 Waterfront Street              National Harbor, MD 20745",8,62,3/16/2020,2
+4/6/2020,531110,"Meta Coastal, LLC","5200-B Coastal Highway             Ocean City, MD 21842",5,7,3/20/2020,2
+4/6/2020,531110,"Meta Coastal, LLC","16 N. Washington Street               Suite 102                                                        Easton, MD 21601",11,4,3/20/2020,2
+4/6/2020,561720,"Meta Coastal, LLC","350 N. Washington Street                      Easton, MD 21601",11,2,3/20/2020,2
+4/6/2020,531311,"Meta Coastal, LLC","12815 Coastal Highway                   Unit #104                        Ocean City, MD 21842",5,9,3/20/2020,2
+4/6/2020,721110,"Meta Coastal, LLC","19638 Garrett Highway             Oakland, MD 21150",12,8,3/20/2020,2
+4/6/2020,541219,"Meta Coastal, LLC","1404 Crain Highway South      Suite 101                                    Glen Burnie, MD 21061",1,42,3/20/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a Fashion to Figure,"Bowie Town Center                15402-B Emerald Way              Space 19A                         Bowie, MD 20716",8,8,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a Fashion to Figure,"Westview Mall                           5816 Baltimore National Pike          Catonsville, MD 21228",2,10,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a Fashion to Figure,"3317 Rosary Court                    Abingdon, MD 21009",10,1,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Annapolis Mall                          2002 Annapolis Mall                Annapolis, Md 21401",1,19,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Arunde Mills Mall                7000 Arundel Mills Circle               Hanover, MD 21076",1,12,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Harford Mall                       696A Bel Air Road                 Bel Air, MD 21014",10,9,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Bowie Town Center                   15443 Emerald Way                Bowie, MD 20716",8,16,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Columbia Mall                         10300 Little Patuxent Parkway       Columbia, MD 21044",6,31,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Hagerstown Premium Outlets   495 Premium Outlel Blvd.            Hagerstown, MD 21740",12,12,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Marley Station Mall                  7900 Ritchie Highway                     Suite E205                                              Glen Burnie, MD 21061",1,10,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"National Harbor                        6800 Oxon Hill Road                National Harbor, MD 20745",8,16,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Centre at Salisbury                        2300 N. Salisbury Blvd.             Salisbury, MD 21801",5,10,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Downtown Silver Spring            937 Ellsworth Drive                Silver Spring, MD 20910",7,29,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Towson Town Center                  825 Dulaney Valley Road           Towson, MD 21204",2,23,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"St. Charles Town Center                  11110 Mall Circle                     Waldorf, MD 20603",9,17,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"TownMall of Westminster                    400 North Center Street               Westminster, MD 21157",6,6,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"Wheaton Mall                         11160 Veirs Mill Road Wheaton, MD 20902",7,17,3/29/2020,2
+4/8/2020,448120,RTW Retailwinds                                                            d/b/a New York  & Company,"White Marsh Mall                                8200 Perry Hall Blvd.                              Baltimore, MD 21236",2,17,3/29/2020,2
+4/9/2020,711110,Medieval Times,"7000 Arundel Mills Circle                 Hanover, MD 21076",1,146,4/12/2020,2
+4/6/2020,448310,The Silver Heron,"The Mall at Columbia         10300 Little Patuxent Parkway Columbia, MD 21044",6,4,4/4/2020,2
+4/6/2020,448310,Pandora,"St. Charles Towne Center            11110 Mall Circle                   Waldorf, MD 20603",9,10,4/4/2020,2
+4/6/2020,448310,Pandora,"The Mall at Columbia         10300 Little Patuxent Parkway Columbia, MD 21044",6,17,4/4/2020,2
+4/6/2020,448310,Pandora,"The Gallery at Harborplace                300 East Pratt Street                  Baltimore, MD 21202",3,7,4/4/2020,2
+4/13/2020,713910,The Bethesda Country Club,"7601 Bradley Boulevard              Bethesda, MD 20817",7,128,3/26/2020,2
